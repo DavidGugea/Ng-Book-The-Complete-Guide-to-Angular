@@ -86,5 +86,4 @@ Finally, putting it all together into a tree representation, we end up with the 
 
 ![Figure](ScreenshotsForNotes/Chapter4/AppTreeDiagram.PNG)
 
-
-
+The rest is outdated.
